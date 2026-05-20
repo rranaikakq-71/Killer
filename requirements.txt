@@ -1,0 +1,8 @@
+python-telegram-bot
+aiohttp
+aiofiles
+aiodns
+cchardet
+brotli
+aiohttp-socks
+colorama
